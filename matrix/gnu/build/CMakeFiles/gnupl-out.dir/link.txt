@@ -1,0 +1,2 @@
+/usr/bin/ar qc libgnupl-out.a CMakeFiles/gnupl-out.dir/gnupl-out.cpp.o
+/usr/bin/ranlib libgnupl-out.a

@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/denis/Workspace/gnupl-out/gnu/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/gnupl-out.dir/gnupl-out.cpp.o -c /home/denis/Workspace/gnupl-out/gnu/gnupl-out.cpp",
+  "file": "/home/denis/Workspace/gnupl-out/gnu/gnupl-out.cpp"
+}
+]
